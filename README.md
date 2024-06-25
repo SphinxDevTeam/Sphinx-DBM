@@ -1,6 +1,6 @@
 # Sphinx DBM V1
 
-Welcome to Sphinx DBM V1, a customizable and powerful Discord bot designed to enhance your Discord server experience. This project provides a comprehensive framework for creating, editing, and running your own Discord bot with ease. 
+Welcome to Sphinx DBM V1, a customizable and powerful Discord bot designer to enhance your Discord server experience. This project provides a comprehensive framework for creating, editing, and running your own Discord bot with ease. 
 
 ## Features
 - **Bot Creation and Configuration**: Easily create and configure your bot with a guided setup process.
